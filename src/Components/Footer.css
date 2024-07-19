@@ -1,0 +1,10 @@
+/* src/Components/Footer.css */  
+.footer {  
+    background-color: grey;  
+    color: white;  
+    padding: 10px;  
+  }  
+  
+  .date {  
+    font-style: italic;  
+  }
